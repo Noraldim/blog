@@ -1,0 +1,4 @@
+[submodule "smblog/public"]
+	path = smblog/public
+	url = https://github.com/Noraldim/smblog.github.io.git
+	branch = main
