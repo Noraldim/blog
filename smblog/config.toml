@@ -1,4 +1,0 @@
-baseURL = 'http://smblog.github.io/'
-languageCode = 'en-us'
-title = 'THE SITE'
-theme='hugo-theme-hello-friend'

@@ -1,0 +1,45 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>noraldim</title>
+        <link>https://noraldim.net/</link>
+        <description>Blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 17:32:50 &#43;0300</lastBuildDate>
+            <atom:link href="https://noraldim.net/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>DOSYA İŞLEMLERİ</title>
+    <link>https://noraldim.net/posts/file/</link>
+    <pubDate>Wed, 31 May 2023 17:52:45 &#43;0300</pubDate>
+    <author>Author</author>
+    <guid>https://noraldim.net/posts/file/</guid>
+    <description><![CDATA[FILE HANDLING in C++ : File handling in C++ refers to the process of accessing files, reading data from them, writing data to them, creating, deleting, or modifying files. File operations are performed using a set of functions and classes provided by the standard library in C++, specifically the &lt;fstream&gt; header file.
+File handling typically involves the following steps:
+1. Opening a File: To perform operations on a file, an object of type std::fstream is created.]]></description>
+</item>
+<item>
+    <title>Why Vim is an Efficient Text Editor</title>
+    <link>https://noraldim.net/posts/vim/</link>
+    <pubDate>Mon, 17 Apr 2023 17:38:41 &#43;0300</pubDate>
+    <author>noraldim</author>
+    <guid>https://noraldim.net/posts/vim/</guid>
+    <description><![CDATA[1.Modal Editing System: Enhancing Productivity One of the key features of Vim is its modal editing system. With different modes at the users&rsquo; disposal, they can efficiently perform various tasks. The two primary modes, command mode and insert mode, offer distinct functionalities. Command mode facilitates navigation, searching, and executing commands, while insert mode is dedicated to text insertion and editing. This modal approach empowers users to achieve quick and precise editing, making Vim a highly efficient tool.]]></description>
+</item>
+<item>
+    <title>Exploring the Power and Impact of Linux</title>
+    <link>https://noraldim.net/posts/linux/</link>
+    <pubDate>Thu, 23 Mar 2023 17:38:41 &#43;0300</pubDate>
+    <author>noraldim</author>
+    <guid>https://noraldim.net/posts/linux/</guid>
+    <description><![CDATA[1. Stability: Empowering High Workloads Linux&rsquo;s unwavering stability sets it apart as a robust and reliable open-source operating system. Its ability to handle high workloads without crashes or performance degradation has made it a preferred choice for critical infrastructure, particularly servers. With Linux, uninterrupted service and optimal uptime are ensured, making it an ideal solution for mission-critical environments.
+2. Security: Open-Source Strength Linux&rsquo;s security features are highly regarded, stemming from its open-source nature.]]></description>
+</item>
+<item>
+    <title>ChatBot</title>
+    <link>https://noraldim.net/posts/cat/</link>
+    <pubDate>Sat, 11 Feb 2023 17:38:11 &#43;0300</pubDate>
+    <author>noraldim</author>
+    <guid>https://noraldim.net/posts/cat/</guid>
+    <description><![CDATA[data cleaning You can clean with basic cleaning commands in python using &lsquo;open&rsquo; to open specific files and associate it with a variable and use &lsquo;replace &rsquo; to replace the element. In our case we just need to clean. Finally, we can use append to do the work.
+import re rmnum = re.compile(r&#39;/d+&#39;) one = [] with open(&#34;C:\\THINGS\\githup project\\meshochat.txt&#34;, &#39;r&#39;, encoding= &#34;utf-8&#34;) as mesho: for line in mesho: rm = line.]]></description>
+</item>
+</channel>
+</rss>
